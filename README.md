@@ -1,4 +1,7 @@
 
+![A Web Developer](https://github.com/SurajPadekar/surajpadekar/assets/144055735/a7b8cfd0-7a5e-4db6-a45c-830a789fea46)
+
+
 <h1 align="center">Hi 👋, I'm Suraj Padekar</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
