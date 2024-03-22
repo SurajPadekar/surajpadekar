@@ -1,5 +1,4 @@
 
-![COMPUTER ENGINEER](https://github.com/SurajPadekar/surajpadekar/assets/144055735/7df43e71-9d4c-4ee7-a672-5b8a2fd0be83)
 <h1 align="center">Hi 👋, I'm Suraj Padekar</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 
